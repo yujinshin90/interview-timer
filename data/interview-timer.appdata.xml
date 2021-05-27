@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Yujin Shin yujinshin90@gmail.com -->
+<component type="desktop">
+<id>com.github.yujinshin90.interview-timer</id>
+<metadata_license>CC0</metadata_license>
+<name>Programming Interview Timer</name>
+<summary>A simple timer app useful for programming interview practice</summary>
+<description>
+<p>A simple timer app useful for programming interview practice</p>
+</description>
+</component>
